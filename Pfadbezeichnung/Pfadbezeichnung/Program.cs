@@ -68,9 +68,17 @@ namespace Schraubeneinlesen_Test_2._1
             //neue leere Liste
             liste = new List<Schrauben>();
 
-            //Daten werden aus csv Datein eingelesen; wird zeilenweise als strings eingelesen
-            string[] zeilen = File.ReadAllLines("Schrauben.csv");
-            
+            // Daten werden aus csv Datein eingelesen; wird zeilenweise als strings eingelesen
+            // string[] zeilen = File.ReadAllLines("Schrauben.csv");
+
+            // Hier wollen Sie hin
+            // E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\\Schrauben.csv
+            // Hier wird die exe ausgeführt
+            // E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug
+            string[] zeilen = File.ReadAllLines(@"..\..\..\Schrauben.csv");
+
+            // Sowas geht auch:
+            // https://stackoverflow.com/questions/837488/how-can-i-get-the-applications-path-in-a-net-console-application
 
             //für jede Zeile wird der string in Werte getrennt und als Array erzeugt
             foreach (string zeile in zeilen)
