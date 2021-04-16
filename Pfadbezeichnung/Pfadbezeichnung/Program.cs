@@ -69,7 +69,8 @@ namespace Schraubeneinlesen_Test_2._1
             liste = new List<Schrauben>();
 
             //Daten werden aus csv Datein eingelesen; wird zeilenweise als strings eingelesen
-            string[] zeilen = File.ReadAllLines(@"C:\Users\Büro\Documents\Julian\Hochschule\3. Semester\HSP L\Schrauben.csv");
+            string[] zeilen = File.ReadAllLines("Schrauben.csv");
+            
 
             //für jede Zeile wird der string in Werte getrennt und als Array erzeugt
             foreach (string zeile in zeilen)
