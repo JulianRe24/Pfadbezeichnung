@@ -1,0 +1,8 @@
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Schrauben.csv
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Pfadbezeichnung.exe.config
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Pfadbezeichnung.exe
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Pfadbezeichnung.pdb
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.csprojAssemblyReference.cache
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.csproj.CoreCompileInputs.cache
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.exe
+E:\Workspaces\VS\_ext\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.pdb
