@@ -1,0 +1,7 @@
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.csprojAssemblyReference.cache
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.csproj.CoreCompileInputs.cache
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Pfadbezeichnung.exe.config
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Pfadbezeichnung.exe
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\bin\Debug\Pfadbezeichnung.pdb
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.exe
+C:\Users\Büro\Documents\GitHub\Pfadbezeichnung\Pfadbezeichnung\Pfadbezeichnung\obj\Debug\Pfadbezeichnung.pdb
